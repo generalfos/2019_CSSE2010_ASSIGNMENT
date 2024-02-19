@@ -1,0 +1,1544 @@
+Archive member included to satisfy reference by file (symbol)
+
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+                              project.o (ceil)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              project.o (__fixunssfsi)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              project.o (__floatunsisf)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o) (__fp_mintl)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o) (__fp_mpack)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o) (__fp_trunc)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              project.o (__udivmodsi4)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              serialio.o (__divmodsi4)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o (exit)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              game.o (__tablejump2__)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              game.o (__do_copy_data)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              buttons.o (__do_clear_bss)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
+                              game.o (random)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                              project.o (fgetc)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              project.o (__iob)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+                              game.o (printf)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+                              game.o (printf_P)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+                              game.o (putchar)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o) (vfprintf)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o) (fputc)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+                              project.o (eeprom_read_block)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+                              project.o (eeprom_read_byte)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+                              project.o (eeprom_read_dword)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+                              project.o (eeprom_read_word)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+                              project.o (eeprom_update_byte)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+                              project.o (eeprom_update_dword)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+                              project.o (eeprom_update_word)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+                              project.o (eeprom_write_block)
+F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+                              F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o) (eeprom_write_r18)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o) (__muluhisi3)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o) (__mulohisi3)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o) (__prologue_saves__)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o) (__epilogue_restores__)
+f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+out_insert_pos      0x1               serialio.o
+x                   0x2               project.o
+bytes_in_out_buffer
+                    0x1               serialio.o
+resting_y           0x2               project.o
+out_buffer          0xff              serialio.o
+input_insert_pos    0x1               serialio.o
+pacman_direction    0x1               game.o
+powered_period      0x4               game.o
+score               0x4               game.o
+input_buffer        0x10              serialio.o
+input_overrun       0x1               serialio.o
+y                   0x2               project.o
+resting_x           0x2               project.o
+highscore           0x4               game.o
+__iob               0x6               f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+bytes_in_input_buffer
+                    0x1               serialio.o
+value               0x2               project.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ .text          0x00000000        0x0 buttons.o
+ .data          0x00000000        0x0 buttons.o
+ .bss           0x00000000        0x0 buttons.o
+ .text          0x00000000        0x0 game.o
+ .data          0x00000000        0x0 game.o
+ .bss           0x00000000        0x0 game.o
+ .text          0x00000000        0x0 ledmatrix.o
+ .data          0x00000000        0x0 ledmatrix.o
+ .bss           0x00000000        0x0 ledmatrix.o
+ .text.ledmatrix_update_all
+                0x00000000       0x58 ledmatrix.o
+ .text.ledmatrix_update_pixel
+                0x00000000       0x3e ledmatrix.o
+ .text.ledmatrix_update_row
+                0x00000000       0x3a ledmatrix.o
+ .text.ledmatrix_shift_display_right
+                0x00000000        0xe ledmatrix.o
+ .text.ledmatrix_shift_display_up
+                0x00000000        0xe ledmatrix.o
+ .text.ledmatrix_shift_display_down
+                0x00000000        0xe ledmatrix.o
+ .text.copy_matrix_column
+                0x00000000       0x18 ledmatrix.o
+ .text.copy_matrix_row
+                0x00000000       0x18 ledmatrix.o
+ .text.set_matrix_column_to_colour
+                0x00000000        0xe ledmatrix.o
+ .text.set_matrix_row_to_colour
+                0x00000000        0xe ledmatrix.o
+ .text          0x00000000        0x0 project.o
+ .data          0x00000000        0x0 project.o
+ .bss           0x00000000        0x0 project.o
+ .text.save_data_available
+                0x00000000       0x3c project.o
+ .progmem.data.__c.2512
+                0x00000000       0x18 project.o
+ .progmem.data.__c.2510
+                0x00000000       0x14 project.o
+ .text          0x00000000        0x0 score.o
+ .data          0x00000000        0x0 score.o
+ .bss           0x00000000        0x0 score.o
+ .text          0x00000000        0x0 scrolling_char_display.o
+ .data          0x00000000        0x0 scrolling_char_display.o
+ .bss           0x00000000        0x0 scrolling_char_display.o
+ .text          0x00000000        0x0 serialio.o
+ .data          0x00000000        0x0 serialio.o
+ .bss           0x00000000        0x0 serialio.o
+ .text          0x00000000        0x0 spi.o
+ .data          0x00000000        0x0 spi.o
+ .bss           0x00000000        0x0 spi.o
+ .text          0x00000000        0x0 terminalio.o
+ .data          0x00000000        0x0 terminalio.o
+ .bss           0x00000000        0x0 terminalio.o
+ .text.move_cursor_up
+                0x00000000       0x12 terminalio.o
+ .text.move_cursor_down
+                0x00000000       0x12 terminalio.o
+ .text.move_cursor_left
+                0x00000000       0x12 terminalio.o
+ .text.move_cursor_right
+                0x00000000       0x12 terminalio.o
+ .text.reverse_video
+                0x00000000       0x12 terminalio.o
+ .text.clear_to_end_of_line
+                0x00000000       0x12 terminalio.o
+ .text.show_cursor
+                0x00000000       0x12 terminalio.o
+ .text.enable_scrolling_for_whole_display
+                0x00000000       0x12 terminalio.o
+ .text.set_scroll_region
+                0x00000000       0x32 terminalio.o
+ .text.scroll_down
+                0x00000000       0x12 terminalio.o
+ .text.scroll_up
+                0x00000000       0x12 terminalio.o
+ .text.draw_horizontal_line
+                0x00000000       0x3a terminalio.o
+ .text.draw_vertical_line
+                0x00000000       0x58 terminalio.o
+ .progmem.data.__c.2124
+                0x00000000        0x7 terminalio.o
+ .progmem.data.__c.2107
+                0x00000000        0x3 terminalio.o
+ .progmem.data.__c.2102
+                0x00000000        0x3 terminalio.o
+ .progmem.data.__c.2097
+                0x00000000        0x9 terminalio.o
+ .progmem.data.__c.2091
+                0x00000000        0x4 terminalio.o
+ .progmem.data.__c.2086
+                0x00000000        0x7 terminalio.o
+ .progmem.data.__c.2073
+                0x00000000        0x4 terminalio.o
+ .progmem.data.__c.2063
+                0x00000000        0x5 terminalio.o
+ .progmem.data.__c.2053
+                0x00000000        0x5 terminalio.o
+ .progmem.data.__c.2048
+                0x00000000        0x5 terminalio.o
+ .progmem.data.__c.2043
+                0x00000000        0x5 terminalio.o
+ .progmem.data.__c.2038
+                0x00000000        0x5 terminalio.o
+ .text          0x00000000        0x0 timer0.o
+ .data          0x00000000        0x0 timer0.o
+ .bss           0x00000000        0x0 timer0.o
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .text          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+ .data          0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+ .bss           0x00000000        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+LOAD buttons.o
+LOAD game.o
+LOAD ledmatrix.o
+LOAD project.o
+LOAD score.o
+LOAD scrolling_char_display.o
+LOAD serialio.o
+LOAD spi.o
+LOAD terminalio.o
+LOAD timer0.o
+START GROUP
+LOAD f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00800060                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3142
+ *(.vectors)
+ .vectors       0x00000000       0x7c F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.initialise_game_level
+                0x0000007c       0xba game.o
+                0x00000136                . = ALIGN (0x2)
+                0x00000136                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000136        0x0 linker stubs
+ *(.trampolines*)
+                0x00000136                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.__c.2325
+                0x00000136       0x17 game.o
+ .progmem.data.__c.2302
+                0x0000014d       0x20 game.o
+ .progmem.data.init_game_field
+                0x0000016d      0x3c2 game.o
+ .progmem.data.__c.2601
+                0x0000052f       0x1e project.o
+ .progmem.data.__c.2599
+                0x0000054d        0xa project.o
+ .progmem.data.__c.2591
+                0x00000557       0x21 project.o
+ .progmem.data.__c.2589
+                0x00000578        0xf project.o
+ .progmem.data.__c.2522
+                0x00000587       0x30 project.o
+ .progmem.data.__c.2520
+                0x000005b7        0x8 project.o
+ .progmem.data.numbers
+                0x000005bf       0x14 scrolling_char_display.o
+ .progmem.data.letters
+                0x000005d3       0x34 scrolling_char_display.o
+ .progmem.data.cols_9
+                0x00000607        0x4 scrolling_char_display.o
+ .progmem.data.cols_8
+                0x0000060b        0x4 scrolling_char_display.o
+ .progmem.data.cols_7
+                0x0000060f        0x4 scrolling_char_display.o
+ .progmem.data.cols_6
+                0x00000613        0x4 scrolling_char_display.o
+ .progmem.data.cols_5
+                0x00000617        0x4 scrolling_char_display.o
+ .progmem.data.cols_4
+                0x0000061b        0x4 scrolling_char_display.o
+ .progmem.data.cols_3
+                0x0000061f        0x4 scrolling_char_display.o
+ .progmem.data.cols_2
+                0x00000623        0x4 scrolling_char_display.o
+ .progmem.data.cols_1
+                0x00000627        0x3 scrolling_char_display.o
+ .progmem.data.cols_0
+                0x0000062a        0x4 scrolling_char_display.o
+ .progmem.data.cols_Z
+                0x0000062e        0x5 scrolling_char_display.o
+ .progmem.data.cols_Y
+                0x00000633        0x5 scrolling_char_display.o
+ .progmem.data.cols_X
+                0x00000638        0x5 scrolling_char_display.o
+ .progmem.data.cols_W
+                0x0000063d        0x5 scrolling_char_display.o
+ .progmem.data.cols_V
+                0x00000642        0x5 scrolling_char_display.o
+ .progmem.data.cols_U
+                0x00000647        0x4 scrolling_char_display.o
+ .progmem.data.cols_T
+                0x0000064b        0x5 scrolling_char_display.o
+ .progmem.data.cols_S
+                0x00000650        0x4 scrolling_char_display.o
+ .progmem.data.cols_R
+                0x00000654        0x4 scrolling_char_display.o
+ .progmem.data.cols_Q
+                0x00000658        0x5 scrolling_char_display.o
+ .progmem.data.cols_P
+                0x0000065d        0x4 scrolling_char_display.o
+ .progmem.data.cols_O
+                0x00000661        0x4 scrolling_char_display.o
+ .progmem.data.cols_N
+                0x00000665        0x4 scrolling_char_display.o
+ .progmem.data.cols_M
+                0x00000669        0x5 scrolling_char_display.o
+ .progmem.data.cols_L
+                0x0000066e        0x4 scrolling_char_display.o
+ .progmem.data.cols_K
+                0x00000672        0x4 scrolling_char_display.o
+ .progmem.data.cols_J
+                0x00000676        0x4 scrolling_char_display.o
+ .progmem.data.cols_I
+                0x0000067a        0x3 scrolling_char_display.o
+ .progmem.data.cols_H
+                0x0000067d        0x4 scrolling_char_display.o
+ .progmem.data.cols_G
+                0x00000681        0x4 scrolling_char_display.o
+ .progmem.data.cols_F
+                0x00000685        0x4 scrolling_char_display.o
+ .progmem.data.cols_E
+                0x00000689        0x4 scrolling_char_display.o
+ .progmem.data.cols_D
+                0x0000068d        0x4 scrolling_char_display.o
+ .progmem.data.cols_C
+                0x00000691        0x4 scrolling_char_display.o
+ .progmem.data.cols_B
+                0x00000695        0x4 scrolling_char_display.o
+ .progmem.data.cols_A
+                0x00000699        0x4 scrolling_char_display.o
+ .progmem.data.__c.2082
+                0x0000069d        0x7 terminalio.o
+ .progmem.data.__c.2078
+                0x000006a4        0x6 terminalio.o
+ .progmem.data.__c.2068
+                0x000006aa        0x5 terminalio.o
+ .progmem.data.__c.2058
+                0x000006af        0x5 terminalio.o
+ .progmem.data.__c.2033
+                0x000006b4        0x9 terminalio.o
+                0x000006be                . = ALIGN (0x2)
+ *fill*         0x000006bd        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000006be                __ctors_start = .
+ *(.ctors)
+                0x000006be                __ctors_end = .
+                0x000006be                __dtors_start = .
+ *(.dtors)
+                0x000006be                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000006be        0x0 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+                0x000006be                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000006be        0xc F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000006ca       0x16 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000006ca                __do_copy_data
+ .init4         0x000006e0       0x10 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000006e0                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000006f0        0x8 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ *(.init9)
+ *(.text)
+ .text          0x000006f8        0x4 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+                0x000006f8                __vector_22
+                0x000006f8                __vector_28
+                0x000006f8                __vector_1
+                0x000006f8                __vector_24
+                0x000006f8                __vector_12
+                0x000006f8                __bad_interrupt
+                0x000006f8                __vector_6
+                0x000006f8                __vector_3
+                0x000006f8                __vector_23
+                0x000006f8                __vector_30
+                0x000006f8                __vector_25
+                0x000006f8                __vector_11
+                0x000006f8                __vector_13
+                0x000006f8                __vector_17
+                0x000006f8                __vector_19
+                0x000006f8                __vector_7
+                0x000006f8                __vector_27
+                0x000006f8                __vector_4
+                0x000006f8                __vector_9
+                0x000006f8                __vector_2
+                0x000006f8                __vector_15
+                0x000006f8                __vector_29
+                0x000006f8                __vector_8
+                0x000006f8                __vector_26
+                0x000006f8                __vector_14
+                0x000006f8                __vector_10
+                0x000006f8                __vector_18
+                0x000006fc                . = ALIGN (0x2)
+ *(.text.*)
+ .text.init_button_interrupts
+                0x000006fc       0x1c buttons.o
+                0x000006fc                init_button_interrupts
+ .text.button_pushed
+                0x00000718       0x5a buttons.o
+                0x00000718                button_pushed
+ .text.__vector_5
+                0x00000772       0x9c buttons.o
+                0x00000772                __vector_5
+ .text.is_ghost_home
+                0x0000080e       0x28 game.o
+ .text.display_lives
+                0x00000836       0x38 game.o
+ .text.draw_pacman_at
+                0x0000086e       0x44 game.o
+ .text.draw_ghost_at
+                0x000008b2       0xa8 game.o
+ .text.erase_pixel_at
+                0x0000095a       0x8e game.o
+ .text.display_score
+                0x000009e8       0x76 game.o
+                0x000009e8                display_score
+ .text.what_is_in_dirn
+                0x00000a5e      0x10c game.o
+                0x00000a5e                what_is_in_dirn
+ .text.determine_dirns_ghost_can_move_in
+                0x00000b6a       0x7a game.o
+ .text.initialise_game_level
+                0x00000be4      0x3a0 game.o
+                0x00000be4                initialise_game_level
+ .text.initialise_game
+                0x00000f84       0x10 game.o
+                0x00000f84                initialise_game
+ .text.determine_ghost_score
+                0x00000f94       0x42 game.o
+                0x00000f94                determine_ghost_score
+ .text.reset_entities_pos
+                0x00000fd6       0x32 game.o
+                0x00000fd6                reset_entities_pos
+ .text.move_pacman
+                0x00001008      0x1d0 game.o
+                0x00001008                move_pacman
+ .text.change_pacman_direction
+                0x000011d8       0x44 game.o
+                0x000011d8                change_pacman_direction
+ .text.move_ghost
+                0x0000121c      0x42e game.o
+                0x0000121c                move_ghost
+ .text.is_game_over
+                0x0000164a        0xc game.o
+                0x0000164a                is_game_over
+ .text.is_level_complete
+                0x00001656       0x12 game.o
+                0x00001656                is_level_complete
+ .text.ledmatrix_setup
+                0x00001668        0x8 ledmatrix.o
+                0x00001668                ledmatrix_setup
+ .text.ledmatrix_update_column
+                0x00001670       0x3a ledmatrix.o
+                0x00001670                ledmatrix_update_column
+ .text.ledmatrix_shift_display_left
+                0x000016aa        0xe ledmatrix.o
+                0x000016aa                ledmatrix_shift_display_left
+ .text.ledmatrix_clear
+                0x000016b8        0x8 ledmatrix.o
+                0x000016b8                ledmatrix_clear
+ .text.initialise_hardware
+                0x000016c0       0x1e project.o
+                0x000016c0                initialise_hardware
+ .text.splash_screen
+                0x000016de       0x76 project.o
+                0x000016de                splash_screen
+ .text.get_resting_voltage
+                0x00001754       0x62 project.o
+                0x00001754                get_resting_voltage
+ .text.new_game
+                0x000017b6       0x1a project.o
+                0x000017b6                new_game
+ .text.valid_direction
+                0x000017d0       0xae project.o
+                0x000017d0                valid_direction
+ .text.save     0x0000187e       0xd8 project.o
+                0x0000187e                save
+ .text.load     0x00001956       0xea project.o
+                0x00001956                load
+ .text.process_serial_input
+                0x00001a40       0x4e project.o
+                0x00001a40                process_serial_input
+ .text.display_digit
+                0x00001a8e       0x2a project.o
+                0x00001a8e                display_digit
+ .text.handle_level_complete
+                0x00001ab8       0x52 project.o
+                0x00001ab8                handle_level_complete
+ .text.play_game
+                0x00001b0a      0x450 project.o
+                0x00001b0a                play_game
+ .text.handle_game_over
+                0x00001f5a       0x46 project.o
+                0x00001f5a                handle_game_over
+ .text.main     0x00001fa0       0x1e project.o
+                0x00001fa0                main
+ .text.init_score
+                0x00001fbe       0x12 score.o
+                0x00001fbe                init_score
+ .text.add_to_score
+                0x00001fd0       0x2a score.o
+                0x00001fd0                add_to_score
+ .text.get_score
+                0x00001ffa       0x12 score.o
+                0x00001ffa                get_score
+ .text.get_highscore
+                0x0000200c       0x12 score.o
+                0x0000200c                get_highscore
+ .text.update_highscore
+                0x0000201e       0x3c score.o
+                0x0000201e                update_highscore
+ .text.set_scrolling_display_text
+                0x0000205a       0x1e scrolling_char_display.o
+                0x0000205a                set_scrolling_display_text
+ .text.scroll_display
+                0x00002078      0x184 scrolling_char_display.o
+                0x00002078                scroll_display
+ .text.uart_put_char
+                0x000021fc       0x70 serialio.o
+ .text.uart_get_char
+                0x0000226c       0x5c serialio.o
+ .text.init_serial_stdio
+                0x000022c8       0x8e serialio.o
+                0x000022c8                init_serial_stdio
+ .text.serial_input_available
+                0x00002356        0xe serialio.o
+                0x00002356                serial_input_available
+ .text.clear_serial_input_buffer
+                0x00002364        0xa serialio.o
+                0x00002364                clear_serial_input_buffer
+ .text.__vector_21
+                0x0000236e       0x84 serialio.o
+                0x0000236e                __vector_21
+ .text.__vector_20
+                0x000023f2       0xa6 serialio.o
+                0x000023f2                __vector_20
+ .text.spi_setup_master
+                0x00002498       0x50 spi.o
+                0x00002498                spi_setup_master
+ .text.spi_send_byte
+                0x000024e8        0xc spi.o
+                0x000024e8                spi_send_byte
+ .text.move_cursor
+                0x000024f4       0x22 terminalio.o
+                0x000024f4                move_cursor
+ .text.normal_display_mode
+                0x00002516       0x12 terminalio.o
+                0x00002516                normal_display_mode
+ .text.clear_terminal
+                0x00002528       0x12 terminalio.o
+                0x00002528                clear_terminal
+ .text.set_display_attribute
+                0x0000253a       0x1a terminalio.o
+                0x0000253a                set_display_attribute
+ .text.hide_cursor
+                0x00002554       0x12 terminalio.o
+                0x00002554                hide_cursor
+ .text.init_timer0
+                0x00002566       0x30 timer0.o
+                0x00002566                init_timer0
+ .text.get_current_time
+                0x00002596       0x1c timer0.o
+                0x00002596                get_current_time
+ .text.__vector_16
+                0x000025b2       0x4a timer0.o
+                0x000025b2                __vector_16
+ .text.avr-libc.fplib
+                0x000025fc       0x2e f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ceil.o)
+                0x000025fc                ceil
+ .text.avr-libc.fplib
+                0x0000262a       0x5e f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000262a                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00002688       0x7a f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00002688                __floatunsisf
+                0x0000268c                __floatsisf
+ .text.avr-libc.fplib
+                0x00002702       0x36 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                0x00002702                __fp_mintl
+ .text.avr-libc.fplib
+                0x00002738       0x1c f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x00002738                __fp_mpack
+                0x0000273c                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x00002754       0x44 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00002754                __fp_split3
+                0x00002764                __fp_splitA
+ .text.avr-libc.fplib
+                0x00002798       0x30 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_trunc.o)
+                0x00002798                __fp_trunc
+ .text.avr-libc.fplib
+                0x000027c8        0xe f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000027c8                __fp_zero
+                0x000027ca                __fp_szero
+ .text.libgcc.div
+                0x000027d6       0x44 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000027d6                __udivmodsi4
+ .text.libgcc.div
+                0x0000281a       0x2e f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x0000281a                __divmodsi4
+ .text.libgcc.div
+                0x00002848       0x10 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00002848                __negsi2
+ .text.libgcc   0x00002858        0xc f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002858                __tablejump2__
+ .text.avr-libc
+                0x00002864      0x144 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
+                0x00002864                random_r
+                0x000028fa                random
+                0x00002996                srandom
+ .text.avr-libc
+                0x000029a8       0x7c f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                0x000029a8                fgetc
+ .text.avr-libc
+                0x00002a24       0x2c f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+                0x00002a24                printf
+ .text.avr-libc
+                0x00002a50       0x4c f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+                0x00002a50                printf_P
+ .text.avr-libc
+                0x00002a9c        0xe f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+                0x00002a9c                putchar
+ .text.avr-libc
+                0x00002aaa      0x3c2 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00002aaa                vfprintf
+ .text.avr-libc
+                0x00002e6c       0x16 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00002e6c                strnlen_P
+ .text.avr-libc
+                0x00002e82       0x16 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00002e82                strnlen
+ .text.avr-libc
+                0x00002e98       0x78 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00002e98                fputc
+ .text.avr-libc
+                0x00002f10       0xbc f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00002f10                __ultoa_invert
+ .text.avr-libc
+                0x00002fcc       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+                0x00002fcc                eeprom_read_block
+                0x00002fd0                eeprom_read_blraw
+ .text.avr-libc
+                0x00002fec       0x10 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+                0x00002fec                eeprom_read_byte
+ .text.avr-libc
+                0x00002ffc        0xc F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+                0x00002ffc                eeprom_read_float
+                0x00002ffc                eeprom_read_dword
+ .text.avr-libc
+                0x00003008        0xc F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+                0x00003008                eeprom_read_word
+ .text.avr-libc
+                0x00003014       0x24 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+                0x00003014                eeprom_update_byte
+                0x00003016                eeprom_update_r18
+ .text.avr-libc
+                0x00003038       0x18 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+                0x00003038                eeprom_update_float
+                0x00003038                eeprom_update_dword
+ .text.avr-libc
+                0x00003050        0xc F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+                0x00003050                eeprom_update_word
+ .text.avr-libc
+                0x0000305c       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+                0x0000305c                eeprom_write_block
+ .text.avr-libc
+                0x00003070       0x1c F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+                0x00003070                eeprom_write_byte
+                0x00003072                eeprom_write_r18
+ .text.libgcc.mul
+                0x0000308c       0x16 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x0000308c                __muluhisi3
+ .text.libgcc.mul
+                0x000030a2       0x10 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+                0x000030a2                __mulshisi3
+                0x000030a8                __mulohisi3
+ .text.libgcc.prologue
+                0x000030b2       0x38 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x000030b2                __prologue_saves__
+ .text.libgcc.prologue
+                0x000030ea       0x36 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x000030ea                __epilogue_restores__
+ .text.libgcc.mul
+                0x00003120       0x1e f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00003120                __umulhisi3
+                0x0000313e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000313e        0x0 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x0000313e                _exit
+                0x0000313e                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000313e        0x4 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003142                _etext = .
+
+.data           0x00800100       0x8e load address 0x00003142
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x4 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
+ *(.data*)
+ .data.ghost_colours
+                0x00800104        0x4 game.o
+                0x00800104                ghost_colours
+ .data.ghost_original_colours
+                0x00800108        0x4 game.o
+                0x00800108                ghost_original_colours
+ .data.disabled_ghosts
+                0x0080010c        0x4 game.o
+                0x0080010c                disabled_ghosts
+ .data.lives_led
+                0x00800110        0x1 game.o
+ .data.lives    0x00800111        0x1 game.o
+                0x00800111                lives
+ .data.seven_seg
+                0x00800112        0xa project.o
+                0x00800112                seven_seg
+ .data.joystick_rest
+                0x0080011c        0x1 project.o
+                0x0080011c                joystick_rest
+ .data.colour   0x0080011d        0x1 scrolling_char_display.o
+ .data.myStream
+                0x0080011e        0xe serialio.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080012c       0x4a game.o
+                                 0x50 (size before relaxing)
+ .rodata.pacman_characters
+                0x00800176        0x8 game.o
+ .rodata.str1.1
+                0x0080017e       0x10 project.o
+ *(.gnu.linkonce.r*)
+                0x0080018e                . = ALIGN (0x2)
+                0x0080018e                _edata = .
+                0x0080018e                PROVIDE (__data_end, .)
+
+.bss            0x0080018e      0x359
+                0x0080018e                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.queue_length
+                0x0080018e        0x1 buttons.o
+ .bss.button_queue
+                0x0080018f        0x4 buttons.o
+ .bss.last_button_state
+                0x00800193        0x1 buttons.o
+ .bss.game_running
+                0x00800194        0x1 game.o
+ .bss.ghost_kills
+                0x00800195        0x1 game.o
+                0x00800195                ghost_kills
+ .bss.power_active
+                0x00800196        0x1 game.o
+                0x00800196                power_active
+ .bss.num_pacdots
+                0x00800197        0x2 game.o
+ .bss.power_pellets
+                0x00800199       0x7c game.o
+ .bss.pacdots   0x00800215       0x7c game.o
+ .bss.ghost_direction
+                0x00800291        0x4 game.o
+ .bss.ghost_y   0x00800295        0x4 game.o
+ .bss.ghost_x   0x00800299        0x4 game.o
+ .bss.pacman_y  0x0080029d        0x1 game.o
+ .bss.pacman_x  0x0080029e        0x1 game.o
+ .bss.special_time_remaining
+                0x0080029f        0x4 project.o
+                0x0080029f                special_time_remaining
+ .bss.x_or_y    0x008002a3        0x1 project.o
+                0x008002a3                x_or_y
+ .bss.power_pellets
+                0x008002a4       0x7c project.o
+ .bss.pacdots   0x00800320       0x7c project.o
+ .bss.ghost_direction
+                0x0080039c        0x4 project.o
+ .bss.ghost_y   0x008003a0        0x4 project.o
+ .bss.ghost_x   0x008003a4        0x4 project.o
+ .bss.pacman_y  0x008003a8        0x1 project.o
+ .bss.pacman_x  0x008003a9        0x1 project.o
+ .bss.shift_countdown.1854
+                0x008003aa        0x1 scrolling_char_display.o
+ .bss.next_char_to_display
+                0x008003ab        0x2 scrolling_char_display.o
+ .bss.display_string
+                0x008003ad        0x2 scrolling_char_display.o
+ .bss.next_col_ptr
+                0x008003af        0x2 scrolling_char_display.o
+ .bss.do_echo   0x008003b1        0x1 serialio.o
+ .bss.clockTicks
+                0x008003b2        0x4 timer0.o
+ *(COMMON)
+ COMMON         0x008003b6        0xd game.o
+                0x008003b6                pacman_direction
+                0x008003b7                powered_period
+                0x008003bb                score
+                0x008003bf                highscore
+ COMMON         0x008003c3        0xa project.o
+                0x008003c3                x
+                0x008003c5                resting_y
+                0x008003c7                y
+                0x008003c9                resting_x
+                0x008003cb                value
+ COMMON         0x008003cd      0x114 serialio.o
+                0x008003cd                out_insert_pos
+                0x008003ce                bytes_in_out_buffer
+                0x008003cf                out_buffer
+                0x008004ce                input_insert_pos
+                0x008004cf                input_buffer
+                0x008004df                input_overrun
+                0x008004e0                bytes_in_input_buffer
+ COMMON         0x008004e1        0x6 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x008004e1                __iob
+                0x008004e7                PROVIDE (__bss_end, .)
+                0x00003142                __data_load_start = LOADADDR (.data)
+                0x000031d0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008004e7        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008004e7                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000      0x115
+ *(.eeprom*)
+ .eeprom        0x00810000      0x115 project.o
+                0x00810000                written_power_pellets
+                0x0081007c                written_pacdots
+                0x008100f8                written_ghost_direction
+                0x008100fc                written_ghost_y
+                0x00810100                written_ghost_x
+                0x00810104                written_time_remaining
+                0x00810105                written_power_active
+                0x00810106                written_lives
+                0x00810107                written_highscore
+                0x0081010b                written_score
+                0x0081010f                written_pacman_direction
+                0x00810110                written_pacman_y
+                0x00810112                written_pacman_x
+                0x00810114                IsWritten
+                0x00810115                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 buttons.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 game.o
+ .comment       0x00000030       0x31 ledmatrix.o
+ .comment       0x00000030       0x31 project.o
+ .comment       0x00000030       0x31 score.o
+ .comment       0x00000030       0x31 scrolling_char_display.o
+ .comment       0x00000030       0x31 serialio.o
+ .comment       0x00000030       0x31 spi.o
+ .comment       0x00000030       0x31 terminalio.o
+ .comment       0x00000030       0x31 timer0.o
+ .comment       0x00000030       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
+ .comment       0x00000030       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .comment       0x00000030       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000030       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .comment       0x00000030       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .comment       0x00000030       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .comment       0x00000030       0x2c f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 f:/2019/semester 2/csse2010/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x4b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 buttons.o
+ .debug_aranges
+                0x00000030       0xa0 game.o
+ .debug_aranges
+                0x000000d0       0x88 ledmatrix.o
+ .debug_aranges
+                0x00000158       0x88 project.o
+ .debug_aranges
+                0x000001e0       0x40 score.o
+ .debug_aranges
+                0x00000220       0x28 scrolling_char_display.o
+ .debug_aranges
+                0x00000248       0x50 serialio.o
+ .debug_aranges
+                0x00000298       0x28 spi.o
+ .debug_aranges
+                0x000002c0       0xa8 terminalio.o
+ .debug_aranges
+                0x00000368       0x30 timer0.o
+ .debug_aranges
+                0x00000398       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .debug_aranges
+                0x000003b8       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .debug_aranges
+                0x000003d8       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .debug_aranges
+                0x000003f8       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .debug_aranges
+                0x00000418       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .debug_aranges
+                0x00000438       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .debug_aranges
+                0x00000458       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .debug_aranges
+                0x00000478       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .debug_aranges
+                0x00000498       0x20 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4c0b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x6cc F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ .debug_info    0x000006cc      0x193 buttons.o
+ .debug_info    0x0000085f     0x1455 game.o
+ .debug_info    0x00001cb4      0x530 ledmatrix.o
+ .debug_info    0x000021e4     0x1256 project.o
+ .debug_info    0x0000343a      0x129 score.o
+ .debug_info    0x00003563      0x64d scrolling_char_display.o
+ .debug_info    0x00003bb0      0x3e9 serialio.o
+ .debug_info    0x00003f99       0xc1 spi.o
+ .debug_info    0x0000405a      0x532 terminalio.o
+ .debug_info    0x0000458c      0x10e timer0.o
+ .debug_info    0x0000469a       0x9b F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .debug_info    0x00004735       0x9a F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .debug_info    0x000047cf       0x9b F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .debug_info    0x0000486a       0x9a F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .debug_info    0x00004904       0x9b F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .debug_info    0x0000499f       0x9c F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .debug_info    0x00004a3b       0x9b F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .debug_info    0x00004ad6       0x9b F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .debug_info    0x00004b71       0x9a F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+
+.debug_abbrev   0x00000000     0x15a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x66e F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ .debug_abbrev  0x0000066e       0xd6 buttons.o
+ .debug_abbrev  0x00000744      0x397 game.o
+ .debug_abbrev  0x00000adb      0x137 ledmatrix.o
+ .debug_abbrev  0x00000c12      0x2eb project.o
+ .debug_abbrev  0x00000efd       0xa5 score.o
+ .debug_abbrev  0x00000fa2      0x122 scrolling_char_display.o
+ .debug_abbrev  0x000010c4      0x230 serialio.o
+ .debug_abbrev  0x000012f4       0x7c spi.o
+ .debug_abbrev  0x00001370       0xe3 terminalio.o
+ .debug_abbrev  0x00001453       0x9b timer0.o
+ .debug_abbrev  0x000014ee       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .debug_abbrev  0x00001502       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .debug_abbrev  0x00001516       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .debug_abbrev  0x0000152a       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .debug_abbrev  0x0000153e       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .debug_abbrev  0x00001552       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .debug_abbrev  0x00001566       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .debug_abbrev  0x0000157a       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .debug_abbrev  0x0000158e       0x14 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+
+.debug_line     0x00000000     0x28fb
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x151 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ .debug_line    0x00000151      0x168 buttons.o
+ .debug_line    0x000002b9      0xa0b game.o
+ .debug_line    0x00000cc4      0x2ef ledmatrix.o
+ .debug_line    0x00000fb3      0x94b project.o
+ .debug_line    0x000018fe      0x10d score.o
+ .debug_line    0x00001a0b      0x245 scrolling_char_display.o
+ .debug_line    0x00001c50      0x2ba serialio.o
+ .debug_line    0x00001f0a      0x115 spi.o
+ .debug_line    0x0000201f      0x31e terminalio.o
+ .debug_line    0x0000233d      0x119 timer0.o
+ .debug_line    0x00002456       0xab F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_block.o)
+ .debug_line    0x00002501       0x7a F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_byte.o)
+ .debug_line    0x0000257b       0x68 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_dword.o)
+ .debug_line    0x000025e3       0x67 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eerd_word.o)
+ .debug_line    0x0000264a       0xb6 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_byte.o)
+ .debug_line    0x00002700       0x7b F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_dword.o)
+ .debug_line    0x0000277b       0x62 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eeupd_word.o)
+ .debug_line    0x000027dd       0x80 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_block.o)
+ .debug_line    0x0000285d       0x9e F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5\libatmega324a.a(eewr_byte.o)
+
+.debug_frame    0x00000000      0xb28
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x80 buttons.o
+ .debug_frame   0x00000080      0x338 game.o
+ .debug_frame   0x000003b8      0x154 ledmatrix.o
+ .debug_frame   0x0000050c      0x198 project.o
+ .debug_frame   0x000006a4       0x64 score.o
+ .debug_frame   0x00000708       0x50 scrolling_char_display.o
+ .debug_frame   0x00000758       0xfc serialio.o
+ .debug_frame   0x00000854       0x34 spi.o
+ .debug_frame   0x00000888      0x23c terminalio.o
+ .debug_frame   0x00000ac4       0x64 timer0.o
+
+.debug_str      0x00000000     0x13c7
+ *(.debug_str)
+ .debug_str     0x00000000      0x255 F:/2019/Semester 2/CSSE2010/Software/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega324a/avr5/crtatmega324a.o
+ .debug_str     0x00000255      0x21e buttons.o
+                                0x266 (size before relaxing)
+ .debug_str     0x00000473      0x530 game.o
+                                0x7bf (size before relaxing)
+ .debug_str     0x000009a3      0x185 ledmatrix.o
+                                0x370 (size before relaxing)
+ .debug_str     0x00000b28      0x47b project.o
+                                0x847 (size before relaxing)
+ .debug_str     0x00000fa3        0xd score.o
+                                0x21e (size before relaxing)
+ .debug_str     0x00000fb0      0x1b9 scrolling_char_display.o
+                                0x404 (size before relaxing)
+ .debug_str     0x00001169       0xda serialio.o
+                                0x32c (size before relaxing)
+ .debug_str     0x00001243       0x18 spi.o
+                                0x1ec (size before relaxing)
+ .debug_str     0x0000125b      0x12e terminalio.o
+                                0x438 (size before relaxing)
+ .debug_str     0x00001389       0x3e timer0.o
+                                0x21d (size before relaxing)
+
+.debug_loc      0x00000000     0x321a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x179 buttons.o
+ .debug_loc     0x00000179     0x16b4 game.o
+ .debug_loc     0x0000182d      0x54a ledmatrix.o
+ .debug_loc     0x00001d77      0x842 project.o
+ .debug_loc     0x000025b9      0x242 scrolling_char_display.o
+ .debug_loc     0x000027fb      0x28b serialio.o
+ .debug_loc     0x00002a86       0x59 spi.o
+ .debug_loc     0x00002adf      0x6d8 terminalio.o
+ .debug_loc     0x000031b7       0x63 timer0.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x478
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 buttons.o
+ .debug_ranges  0x00000020      0x210 game.o
+ .debug_ranges  0x00000230       0x78 ledmatrix.o
+ .debug_ranges  0x000002a8       0x78 project.o
+ .debug_ranges  0x00000320       0x30 score.o
+ .debug_ranges  0x00000350       0x18 scrolling_char_display.o
+ .debug_ranges  0x00000368       0x40 serialio.o
+ .debug_ranges  0x000003a8       0x18 spi.o
+ .debug_ranges  0x000003c0       0x98 terminalio.o
+ .debug_ranges  0x00000458       0x20 timer0.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(JoelFosterCSSE2010Project2019.elf elf32-avr)
+LOAD linker stubs
